@@ -1,2 +1,4 @@
-# Mumbo-clock
-A simple desktop widget that adds a Mumbo styled analog clock to your desktop.
+![mumboClockTitle](https://github.com/stshrewsburyDev/Mumbo-clock/images/title.png "Mumbo clock title")
+
+
+#### Developed by stshrewsburyDev (Steven Shrewsbury)
