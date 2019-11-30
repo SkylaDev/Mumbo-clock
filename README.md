@@ -3,8 +3,7 @@
 #### Developed by stshrewsburyDev (Steven Shrewsbury)
 
 
-Installation guide:
--------------------
+###### Installation guide:
 
 * 1. Download and run the installer from the repositories release tab
 
@@ -48,3 +47,10 @@ Installation guide:
 * 7. Congratulations you have installed mumbo clock
 
 ![install0007](https://raw.githubusercontent.com/stshrewsburyDev/Mumbo-clock/master/images/install/0007.png "Working clock")
+
+
+###### Links:
+* [GitHub repository page](https://github.com/stshrewsburyDev/Mumbo-clock)
+* [ElyBeatMakers site](http://elybeatmaker.com/)
+* [Online Mumbo clock](http://elybeatmaker.com/mumboclock.html)
+* [The stshrewsburyDev official site](https://stshrewsburydev.github.io/official_site/)
