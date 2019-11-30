@@ -30,8 +30,9 @@ Installation guide:
 * 		(1. Click next to continue)
 
 * 6. Finishing installer
-![install0006](https://raw.githubusercontent.com/stshrewsburyDev/Mumbo-clock/master/images/install/0006.png "Readme info")
+![install0006](https://raw.githubusercontent.com/stshrewsburyDev/Mumbo-clock/master/images/install/0006.png "Finishing installer")
 * 		(1. Check the "Launch Mumbo clock" if you want the clock to auto open after installation)
 * 		(2. Click next to continue)
 
 * 7. Congratulations you have installed mumbo clock
+![install0007](https://raw.githubusercontent.com/stshrewsburyDev/Mumbo-clock/master/images/install/0007.png "Working clock")
