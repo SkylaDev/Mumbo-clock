@@ -1,5 +1,7 @@
 ![mumboClockTitle](https://raw.githubusercontent.com/stshrewsburyDev/Mumbo-clock/master/images/title.png "Mumbo clock title")
 
+##### A simple widget that adds a Mumbo styled analog clock to your desktop
+
 #### Developed by stshrewsburyDev (Steven Shrewsbury)
 
 
